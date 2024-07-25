@@ -1,3 +1,13 @@
+# future scope
+    add chatGPT api to get movie sugestions based on the prompts given by the user
+
+# optimization
+    used:
+        dynamic import/lazy loading
+        caching
+        debouncing
+
+
 # Netflixgpt:-
 # URL: https://netflixgpt-70ead.web.app
     create react app
